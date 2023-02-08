@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poloko-Gumede
 - 👀 I’m interested in frontend Development 
-- 🌱 I’m currently learning frontend Libraries
-- 💞️ I’m looking to collaborate on Development
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : gumedepoloko@gmail.com
 
 <!---
